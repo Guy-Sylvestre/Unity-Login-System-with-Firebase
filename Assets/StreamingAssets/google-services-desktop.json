@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "561396411277",
+    "project_id": "fir-unityauth-9e51c",
+    "storage_bucket": "fir-unityauth-9e51c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561396411277:android:083216c406d39f407aabc4",
+        "android_client_info": {
+          "package_name": "com.pcoder.firebaseAuth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561396411277-m5pgqgq6t95ic701kmo5r79s5plp9ks2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDwtJMjPtzlNUUyiNdjtZXWqEIS4sXD3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561396411277-m5pgqgq6t95ic701kmo5r79s5plp9ks2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
