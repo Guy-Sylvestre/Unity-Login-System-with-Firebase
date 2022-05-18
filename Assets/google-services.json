@@ -2,6 +2,7 @@
   "project_info": {
     "project_number": "561396411277",
     "project_id": "fir-unityauth-9e51c",
+    "firebase_url": "https://fir-unityauth-9e51c-default-rtdb.firebaseio.com/",
     "storage_bucket": "fir-unityauth-9e51c.appspot.com"
   },
   "client": [
